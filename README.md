@@ -11,6 +11,9 @@
     <p>
        - Usando um padrão MVC de desenvolvimento para facilitar leitura e manutenção;
     </p>
+    <p>
+       - Usando linguagem Python, biblioteca flask e banco de dados SQLite3;
+    </p>
 </div>
 
 <h2>:white_check_mark: Tecnologias utilizadas:</h2>
